@@ -32,4 +32,4 @@ method.
 C) Go forward and use your product similarity to achieve a map of products (like a Kmeans
 based on your product similarity for example).
   
-Le code, les fichiers de données et de modèle sont accessibles sur le lien google drive : [fichiers](https://drive.google.com/drive/folders/1dC4TjfR924T6erFhEAnjH9jZe4xg9Wil?usp=sharing)
+Le code, les données et modèles sont accessibles sur le lien google drive : [fichiers](https://drive.google.com/drive/folders/1dC4TjfR924T6erFhEAnjH9jZe4xg9Wil?usp=sharing)
